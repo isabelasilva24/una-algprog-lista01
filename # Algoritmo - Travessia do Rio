@@ -1,0 +1,25 @@
+# Algoritmo - Travessia do Rio
+
+## Descrição do Problema
+O objetivo é transportar um personagem e itens de um lado do rio para o outro, respeitando regras de segurança.
+
+## Regras
+- O barco só pode levar um item por vez.
+- Não é permitido deixar itens que possam se "atacar" sozinhos sem supervisão.
+- O objetivo é levar todos os itens com segurança para o outro lado.
+
+## Solução (Algoritmo)
+
+1. Levar o item mais perigoso para o outro lado.
+2. Voltar sozinho com o barco.
+3. Levar o segundo item.
+4. Trazer o primeiro item de volta.
+5. Levar o terceiro item.
+6. Repetir o processo até que todos os itens estejam no destino.
+
+## Resultado
+Todos os itens foram transportados com segurança para o outro lado do rio, respeitando as regras do problema.
+
+## Autor
+Isabela Silva Freitas
+UNA Contagem
